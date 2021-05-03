@@ -3,6 +3,7 @@
   "description": "Todas las clases del curso",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.Database.Activities": "[1.4.0]",
     "UiPath.Excel.Activities": "[2.10.4]",
     "UiPath.Mail.Activities": "[1.10.4]",
     "UiPath.PDF.Activities": "[3.4.0]",
